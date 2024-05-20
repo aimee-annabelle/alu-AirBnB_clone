@@ -1,6 +1,6 @@
 # alu-AirBnB_clone
 
-###Project description
+### Project description
 In this project, we will replicate the console component of the AirBnB clone project.
 
 Our task involves developing a command interpreter to manage various AirBnB objects.
