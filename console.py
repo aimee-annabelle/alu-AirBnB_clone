@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """This module contains the entry point of the command interpreter"""
-"""file starts with importing necessary modules"""
+
 import cmd
 import models
 
