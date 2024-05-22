@@ -5,6 +5,8 @@ In this project, we will replicate the console component of the AirBnB clone pro
 
 Our task involves developing a command interpreter to manage various AirBnB objects.
 
+### Description of the command interpreter:
+The interface of the application is just like the Bash shell except that this has a limited number of accepted commands that were solely defined for the purposes of the usage of the AirBnB website.
 Key steps include:
 
 1. Establishing a parent class, called BaseModel, to handle the initialization, serialization, and deserialization of future instances.
